@@ -1,5 +1,5 @@
 local colors = {
-   white = "#fff9e8",
+   white = "#D3C6AA",
    darker_black = "#272f35",
    black = "#2b3339", --  nvim bg
    black2 = "#323a40",
@@ -17,7 +17,7 @@ local colors = {
    green = "#83c092",
    vibrant_green = "#a7c080",
    nord_blue = "#78b4ac",
-   blue = "#7fbbb3",
+   blue = "#7393b3",
    yellow = "#dbbc7f",
    sun = "#d1b171",
    purple = "#b4bbc8",
@@ -29,7 +29,7 @@ local colors = {
    lightbg = "#3d454b",
    lightbg2 = "#333b41",
    pmenu_bg = "#83c092",
-   folder_bg = "#7fbbb3",
+   folder_bg = "#7393b3",
 }
 
 return colors
